@@ -28,3 +28,7 @@ The original notes discuss CloudFront Origin Access Control, Lambda IAM permissi
 The PDFs are supporting learning artifacts. No live preview URL or repeatable deployment procedure is supplied here. Claims about security, scalability, latency and cost require additional configuration and measurement evidence.
 
 Prepared by [Jyothesh Karnam](https://github.com/jyotheshkar).
+
+## Technical maintenance, 11 November 2026
+
+[Editable technical diagrams, architecture, maintenance checks and scaling limits](docs/ARCHITECTURE.md) distinguish the supplied implementation from proposed extensions. This maintenance is AI-assisted and preserves the original learning material.
