@@ -32,3 +32,5 @@ Prepared by [Jyothesh Karnam](https://github.com/jyotheshkar).
 ## Technical maintenance, 11 November 2026
 
 [Editable technical diagrams, architecture, maintenance checks and scaling limits](docs/ARCHITECTURE.md) distinguish the supplied implementation from proposed extensions. This maintenance is AI-assisted and preserves the original learning material.
+
+**Year provenance:** The `2025` suffix records this repository's creation year (created 2025-03-29). Later maintenance retains its own dates.
